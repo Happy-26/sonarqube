@@ -15,7 +15,7 @@ import org.springframework.expression.spel.support.StandardEvaluationContext;
 import java.util.*;
 
 /**
- * Unit test for simple App.
+ * Spring EL 表达式测试
  */
 public class AppTest {
     EvaluationContext context = SimpleEvaluationContext.forReadWriteDataBinding().build();
